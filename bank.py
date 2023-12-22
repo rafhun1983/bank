@@ -70,3 +70,6 @@ class Bank:
         else:
             print('vi pitaetes udalit tablicu')
 
+
+
+
